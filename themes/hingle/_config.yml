@@ -1,0 +1,17 @@
+author: 'cloud' # 作者名称
+author_avatar: 'https://web-tliasximo.oss-cn-beijing.aliyuncs.com/77.bmp' # 作者头像
+author_text: '不说话，就看看' # 作者信息
+social: # 社交链接
+  - title: 'Github'
+    icon: 'github'
+    link: 'https://github.com/Doulcman'
+  - title: '首页'
+    icon: 'home'
+    link: 'https://cloud.tliasximo.com'
+background: 'https://api.paugram.com/wallpaper?source=gh' # 主题背景
+menu: # 页眉菜单项目
+  '关于我': /about
+  '朋友们': /friends
+config:
+  copyright: true # 复制的时候弹出保留原站链接说明
+  night: true # 自动切换夜间模式
