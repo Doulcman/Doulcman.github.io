@@ -10,7 +10,7 @@ social: # 社交链接
     link: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9NlVAbhZ69l4MFyUKtxDkUAglzCKJbtF&authKey=BoVrism9rBbWkoCBwlaDYn%2B%2BQApgu9v6zdPyIE6MzhpnuUC5cZfJuw5pwG91YwOo&noverify=0&group_code=784400454'
   - title: '首页'
     icon: 'home'
-    link: 'https://cloud.tliasximo.com'
+    link: 'https://learn.lianglianglee.com/'
 background: 'https://api.paugram.com/wallpaper?source=gh' # 主题背景
 menu: # 页眉菜单项目
   '关于我': /about
