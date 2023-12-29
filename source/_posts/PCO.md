@@ -1,7 +1,7 @@
 ---
 title: Principles of Computer Organization
 date: 2023-12-29 12:24:25
-tags:
+tags: 计组
 ---
 
 # 简答题
